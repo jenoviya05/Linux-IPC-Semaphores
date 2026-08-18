@@ -122,9 +122,13 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
+
 ![sem](./op-img/s1.png)
 
 $ ipcs
+
+
 ![sem](./op-img/s2.png)
 
 
